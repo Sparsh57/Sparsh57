@@ -33,7 +33,6 @@ Here are a few projects that I've been working on:
 
 ## 📫 How to Reach Me
 
-- Email: [sparshmakharia@gmail.com](mailto:sparshmakharia@gmail.com)
 - LinkedIn: [Sparsh Makharia](https://www.linkedin.com/in/sparshmakharia)
 - GitHub: [Sparsh57](https://github.com/Sparsh57)
 
