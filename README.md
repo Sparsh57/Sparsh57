@@ -1,49 +1,69 @@
-# Hi there, I'm Sparsh Makharia 👋
+# Hi, I'm Sparsh Makharia 👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student interested in data science, machine learning, and software development. I love building projects that solve real-world problems and contribute to the tech community.
+I'm an **INSEAD Master in Management candidate** with a background in **Computer Science & Data Science**, interested in building technology at the intersection of **AI, optimization, and real-world decision-making**.
 
-## 🔭 What I'm Currently Working On
+I enjoy taking ambiguous problems, breaking them down, and building practical systems around them — from scheduling optimization to medical imaging research.
 
-- Developing machine learning models to analyze large datasets.
-- Building web applications with Django and JavaScript.
-- Enhancing my knowledge and skills in data science and AI.
+## 🔭 What I've Been Working On
 
-## 🌱 What I'm Learning
+### 🧠 SynTract | Medical Imaging & AI Research
+Worked as a **LINC Fellow with Massachusetts General Hospital / Harvard Medical School** on synthetic-data generation for fiber-bundle segmentation in tracer histology.
 
-- Advanced machine learning techniques and algorithms.
-- Natural Language Processing (NLP) and its applications.
-- Best practices for software development and project management.
+- Co-developed a synthetic-data segmentation approach that reduced manual brain-image annotation effort by **3×** while matching benchmark performance
+- Worked with researchers across **MGH, MIT, UCL, and the University of Rochester**
+- Built pipelines involving tractography, image registration, synthetic-data generation, and deep learning
+- Second author on research on **tractography-driven synthetic data generation**
 
-## 👨‍💻 Projects
+**Tech:** Python, PyTorch, ANTs, NIfTI, Tractography, Computer Vision
 
-Here are a few projects that I've been working on:
+---
 
-- **Jarvis: Advanced Voice Assistant**  
-  A sophisticated voice assistant using Python, NLP, Speech Recognition, and Web Automation with features like file manipulation and API integration.
+### 📅 OurClock | Scheduling Optimization Platform
+Co-founded a scheduling platform designed to solve complex academic timetabling problems.
 
-- **Real-Time Footfall Monitoring System**  
-  Developed using deep learning algorithms to count footfall and monitor anomalies in real-time for enhanced store security and compliance.
+- Built an optimization system using **Google OR-Tools CP-SAT**
+- Piloted across approximately **1,200 students and 150 faculty**
+- Processed **3,500+ scheduling mappings**
+- Reduced scheduling conflicts by approximately **98%**
+- Helped eliminate roughly **one week of manual administrative work**
 
+**Tech:** Python, OR-Tools, FastAPI, SQLAlchemy, SQLite, OAuth, DigitalOcean
 
-## 🌟 Highlights
+---
 
-- Implemented an ERP system, resulting in substantial cost savings.
-- Developed a sales prediction algorithm using historical data.
-- Organized and led tech community events to foster coding skills and technological awareness.
+### 📊 Applied Machine Learning
+Previously worked on ML systems across retail and research problems, including:
 
-## 📫 How to Reach Me
+- Anomaly detection across **5,000+ retail outlets**
+- Research comparing ML models that improved classification **AUROC from 0.60 to 0.96**
+- Computer-vision systems for real-world monitoring
+- Forecasting and analytics applications
 
-- LinkedIn: [Sparsh Makharia](https://www.linkedin.com/in/sparshmakharia)
-- GitHub: [Sparsh57](https://github.com/Sparsh57)
+## 🛠 Tech
 
-## 🧑‍💻 Skills
+**Languages**  
+Python · SQL · JavaScript · C · Java
 
-- Programming Languages: Python, C, Java
-- Frameworks: Django, Scikit-Learn
-- Web Development: HTML, CSS, JavaScript
-- Tools and Technologies: Data Analytics, Machine Learning, Microsoft Excel, Camera Vision
-- Others: Basic Android Development, Basic Ethical Hacking, Algorithms
+**AI & Data**  
+Machine Learning · Deep Learning · Computer Vision · Generative AI · Data Analysis · Optimization
 
-## 🚀 Let's Connect
+**Development**  
+FastAPI · Django · SQLAlchemy · Git · REST APIs
 
-I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration. Let's build something amazing together!
+**Tools**  
+OR-Tools · Scikit-learn · PyTorch · Excel · PowerPoint
+
+## 🚀 What Interests Me
+
+I'm particularly interested in:
+
+- Applied AI
+- Optimization & decision systems
+- AI-native products
+- Technology strategy
+- Building products that solve operational problems
+
+## 📫 Connect
+
+**LinkedIn:** [Sparsh Makharia](https://www.linkedin.com/in/sparshmakharia)  
+**GitHub:** [Sparsh57](https://github.com/Sparsh57)
